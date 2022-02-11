@@ -1,5 +1,5 @@
 ### Hi there 👋
-Most of things that were displayed here for my study purpose so maybe that aren't usefull for you at all.
+Most of things that were displayed here are for my study purpose so maybe that aren't usefull for you at all.
 Contact me: 
 - lcdai.abc9htkhang@gmail.com
 - @lcd.exe
