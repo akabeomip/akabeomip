@@ -1,4 +1,9 @@
 ### Hi there 👋
+Contact me: 
+- lcdai.abc9htkhang@gmail.com
+- @lcd.exe
+Most of things that were displayed here for my study purpose so maybe that aren't usefull for you at all.
+
 
 <!--
 **akabeomip/akabeomip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
